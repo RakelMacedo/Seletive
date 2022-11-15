@@ -69,9 +69,12 @@ $ python3 manage.py runserver
 ```
 <br>
 
-Acesse http://127.0.0.1:8000/home/empresas para ir para a página principal. 
+  1. Acesse http://127.0.0.1:8000/admin/ para ir para a interface de administrador do Django, utilize seu usuário e senha para entrar. 
+    Lá crie sua lista de Tecnologias, esta será disponibilizada para você selecionar quando for criar uma nova empresa, aparecerá como tecnologias
+    usadas e tecnologias que você domina ou não. 
 
-Acesse http://127.0.0.1:8000/admin/ para ir para a interface de administrador do Django, utilize seu usuário e senha para entrar. 
+  2. Acesse http://127.0.0.1:8000/home/empresas para ir para a página principal. 
+
 
 <br>
 
